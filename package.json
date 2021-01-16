@@ -1,6 +1,6 @@
 {
     "name": "get-fit-ios",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "With the GetFit app you can plan, run and document your workouts.",
     "main": "node_modules/expo/AppEntry.js",
     "scripts": {
@@ -47,6 +47,7 @@
         "@types/react": "~16.9.35",
         "@types/react-native": "~0.63.2",
         "jest-expo": "~40.0.0",
+        "standard-version": "^9.1.0",
         "typescript": "~4.0.0"
     },
     "private": true
