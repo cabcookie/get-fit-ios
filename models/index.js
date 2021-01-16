@@ -13,10 +13,11 @@ const TrainingType = {
   "WALKING_INTERVALL": "WALKING_INTERVALL"
 };
 
-const { Training, TrainingDetails, TrainingExecution, TrainingResults, RunningIntervall, RunningWithBreaks, Running } = initSchema(schema);
+const { Training, User, TrainingDetails, TrainingExecution, TrainingResults, RunningIntervall, RunningWithBreaks, Running } = initSchema(schema);
 
 export {
   Training,
+  User,
   TrainingType,
   TrainingDetails,
   TrainingExecution,

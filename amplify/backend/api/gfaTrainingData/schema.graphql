@@ -83,3 +83,15 @@ enum TrainingType {
     RUNNING_INTERVALL_SLOWLY
     WALKING_INTERVALL
 }
+
+type User @model @aws_cognito_user_pools
+@auth( rules: [
+    { allow: owner, operations: [create, read, update] }
+] ) {
+    id: ID!
+    username: String
+    birthYear: Int
+    iftttTrigger: String
+    iftttKey: String
+    schemaVersion: Int
+}

@@ -2,6 +2,60 @@
 /* eslint-disable */
 // this is an auto generated file. This will be overwritten
 
+export const onCreateUser = /* GraphQL */ `
+  subscription OnCreateUser($owner: String!) {
+    onCreateUser(owner: $owner) {
+      id
+      username
+      birthYear
+      iftttTrigger
+      iftttKey
+      schemaVersion
+      _version
+      _deleted
+      _lastChangedAt
+      createdAt
+      updatedAt
+      owner
+    }
+  }
+`;
+export const onUpdateUser = /* GraphQL */ `
+  subscription OnUpdateUser($owner: String!) {
+    onUpdateUser(owner: $owner) {
+      id
+      username
+      birthYear
+      iftttTrigger
+      iftttKey
+      schemaVersion
+      _version
+      _deleted
+      _lastChangedAt
+      createdAt
+      updatedAt
+      owner
+    }
+  }
+`;
+export const onDeleteUser = /* GraphQL */ `
+  subscription OnDeleteUser($owner: String!) {
+    onDeleteUser(owner: $owner) {
+      id
+      username
+      birthYear
+      iftttTrigger
+      iftttKey
+      schemaVersion
+      _version
+      _deleted
+      _lastChangedAt
+      createdAt
+      updatedAt
+      owner
+    }
+  }
+`;
 export const onCreateTraining = /* GraphQL */ `
   subscription OnCreateTraining($owner: String) {
     onCreateTraining(owner: $owner) {

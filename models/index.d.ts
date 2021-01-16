@@ -86,3 +86,14 @@ export declare class Training {
   constructor(init: ModelInit<Training>);
   static copyOf(source: Training, mutator: (draft: MutableModel<Training>) => MutableModel<Training> | void): Training;
 }
+
+export declare class User {
+  readonly id: string;
+  readonly username?: string;
+  readonly birthYear?: number;
+  readonly iftttTrigger?: string;
+  readonly iftttKey?: string;
+  readonly schemaVersion?: number;
+  constructor(init: ModelInit<User>);
+  static copyOf(source: User, mutator: (draft: MutableModel<User>) => MutableModel<User> | void): User;
+}
