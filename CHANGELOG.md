@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/cabcookie/get-fit-ios/compare/v0.1.3...v0.1.4) (2021-01-16)
+
+
+### Features
+
+* navigation updated ([c9e4401](https://github.com/cabcookie/get-fit-ios/commit/c9e4401ee6aa87bfa942751e18fb7314bd9635d3))
+* pulled amplify project ([8d4fc58](https://github.com/cabcookie/get-fit-ios/commit/8d4fc5864de13dc16722ce59daf330522485c1b6))
+
 ### [0.1.3](https://github.com/cabcookie/get-fit-ios/compare/v0.1.2...v0.1.3) (2021-01-16)
 
 
