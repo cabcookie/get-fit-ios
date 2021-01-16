@@ -4,8 +4,7 @@ const tracker = {
 }
 
 module.exports = {
-    bumpFiles: [tracker],
-    packageFiles: [{
+    bumpFiles: [tracker, {
         filename: "package.json",
         type: "json",
     }]
