@@ -1,0 +1,38 @@
+{
+    "paths": [
+        {
+            "name": "/stop",
+            "lambdaFunction": "gfaStopStepFnExecution",
+            "privacy": {
+                "private": true,
+                "auth": [
+                    "/GET"
+                ]
+            },
+            "policyResourceName": "/stop"
+        }
+    ],
+    "resourceName": "apiLambdaToStopStepFnExecution",
+    "apiName": "apiLambdaToStopStepFnExecution",
+    "functionArns": [
+        {
+            "lambdaFunction": "gfaStopStepFnExecution"
+        }
+    ],
+    "privacy": {
+        "auth": 1,
+        "unauth": 0,
+        "authRoleName": "amplify-getfitapp-isengdev-174454-authRole",
+        "unAuthRoleName": "amplify-getfitapp-isengdev-174454-unauthRole"
+    },
+    "dependsOn": [
+        {
+            "category": "function",
+            "resourceName": "gfaStopStepFnExecution",
+            "attributes": [
+                "Name",
+                "Arn"
+            ]
+        }
+    ]
+}

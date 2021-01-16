@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "api": {
+      "gfaTrainingData": [
+        "create",
+        "read",
+        "update"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

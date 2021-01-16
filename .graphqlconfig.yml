@@ -1,6 +1,6 @@
 projects:
-  Codegen Project:
-    schemaPath: schema.graphql
+  gfaTrainingData:
+    schemaPath: amplify/backend/api/gfaTrainingData/build/schema.graphql
     includes:
       - src/graphql/**/*.ts
     excludes:
@@ -9,12 +9,7 @@ projects:
       amplify:
         codeGenTarget: typescript
         generatedFileName: src/API.ts
-        docsFilePath: src/graphql
+        docsFilePath: graphql
         region: eu-west-1
         apiId: null
-        frontend: javascript
-        framework: react-native
         maxDepth: 2
-extensions:
-  amplify:
-    version: 3

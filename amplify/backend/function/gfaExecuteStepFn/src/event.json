@@ -1,0 +1,5 @@
+{
+  "queryStringParameters": {
+    "data": "{\"notifications\":[{\"title\":\"SF: Gehe 10 min\",\"message\":\"Gehe für 10 Minuten bei 116 bis 134 bpm\",\"timerSeconds\":5},{\"title\":\"SF: Jogge 15 min\",\"message\":\"Jogge für 5 Minuten bei 134 bis 142 bpm\",\"timerSeconds\":25},{\"title\":\"SF: Gehe 10 min\",\"message\":\"Gehe für 3 Minuten bei 116 bis 134 bpm\",\"timerSeconds\":55},{\"title\":\"SF: Training abgeschlossen!\",\"message\":\"Herzlichen Glückwunsch! Du hast das Training erfolgreich abgeschlossen.\",\"timerSeconds\":75}]}"
+  }
+}
