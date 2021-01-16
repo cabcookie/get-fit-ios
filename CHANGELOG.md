@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/cabcookie/get-fit-ios/compare/v0.1.1...v0.1.2) (2021-01-16)
+
+
+### Features
+
+* added standard-version and handle app.json ([6f99f71](https://github.com/cabcookie/get-fit-ios/commit/6f99f713f8c612ffc0590e3e415b8e4181103e79))
+
 ### 0.1.1 (2021-01-16)
 
 
