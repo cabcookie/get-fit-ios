@@ -1,0 +1,40 @@
+type Query {
+    id: ID!
+    trainingType: TrainingType
+    date: String
+    trainingDetails: TrainingDetails
+    executionDetails: TrainingExecution
+    resultDetails: TrainingResults
+    schemaVersion: Int
+}
+
+type TrainingDetails {
+    totalMinutes: Int
+    intervalls: Int
+    minutesPerIntervall: Int
+    minutesBetweenIntervalls: Int
+}
+
+type TrainingExecution {
+    executionId: String
+    trainingStarted: String
+    trainingFinished: String
+}
+
+type TrainingResults {
+    resultSeconds: Int
+    resultAverageBpm: Int
+    resultCalories: Int
+    resultMeters: Int
+}
+
+enum TrainingType {
+    RUNNING_INTERVALL
+    RUNNING_WITH_BREAKS
+    RUNNING
+    RUNNING_SLOWLY
+    WALKING
+    WALKING_SLOWLY
+    RUNNING_INTERVALL_SLOWLY
+    WALKING_INTERVALL
+}
