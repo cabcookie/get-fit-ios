@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/cabcookie/get-fit-ios/compare/v0.1.4...v0.1.5) (2021-01-16)
+
+
+### Features
+
+* added user profile information ([6697391](https://github.com/cabcookie/get-fit-ios/commit/6697391446a480c5d3d372d04e023a41b4c94512))
+
 ### [0.1.4](https://github.com/cabcookie/get-fit-ios/compare/v0.1.3...v0.1.4) (2021-01-16)
 
 
