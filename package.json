@@ -10,7 +10,7 @@
         "web": "expo start --web",
         "eject": "expo eject",
         "test": "jest --watchAll",
-        "push-and-publish": "cp CHANGELOG.md src/ && git push --follow-tags isengard master && amplify publish -c",
+        "push-and-publish": "git push --follow-tags origin main",
         "release": "standard-version && npm run push-and-publish",
         "major-release": "standard-version --release-as major && npm run push-and-publish"
     },
