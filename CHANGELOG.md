@@ -9,7 +9,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 * Publish the app on an iPhone ([c126389](https://github.com/cabcookie/get-fit-ios/commit/c126389d311a9b64ef71f70533dac0c81fa65f96)), closes [#1](https://github.com/cabcookie/get-fit-ios/issues/1)
 
-
 ### Bug Fixes
 
 * app json merge conflicts ([d4feb01](https://github.com/cabcookie/get-fit-ios/commit/d4feb014f94fc7a9a90b509d59a292c1c5a7e911))
