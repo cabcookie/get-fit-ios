@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.2.1](https://github.com/cabcookie/get-fit-ios/compare/v0.2.0...v0.2.1) (2021-01-23)
+
+
+### Bug Fixes
+
+* .gitignore ([1b7b245](https://github.com/cabcookie/get-fit-ios/commit/1b7b2454c687fc7a72e46f6200add8ac16920b77))
+
 ## [0.2.0](https://github.com/cabcookie/get-fit-ios/compare/v0.1.5...v0.2.0) (2021-01-19)
 
 
