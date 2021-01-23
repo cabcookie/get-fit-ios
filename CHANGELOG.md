@@ -4,19 +4,6 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.2.2](https://github.com/cabcookie/get-fit-ios/compare/v0.2.1...v0.2.2) (2021-01-23)
 
-### [0.1.6](https://github.com/cabcookie/get-fit-ios/compare/v0.2.0...v0.1.6) (2021-01-23)
-
-
-### Features
-
-* Publish the app on an iPhone ([c126389](https://github.com/cabcookie/get-fit-ios/commit/c126389d311a9b64ef71f70533dac0c81fa65f96)), closes [#1](https://github.com/cabcookie/get-fit-ios/issues/1)
-
-
-### Bug Fixes
-
-* app json merge conflicts ([d4feb01](https://github.com/cabcookie/get-fit-ios/commit/d4feb014f94fc7a9a90b509d59a292c1c5a7e911))
-* delete all amplify artifacts ([1cb5015](https://github.com/cabcookie/get-fit-ios/commit/1cb50150b05865592809802dc1dd42e173bdb0f9))
-
 ### [0.2.1](https://github.com/cabcookie/get-fit-ios/compare/v0.2.0...v0.2.1) (2021-01-23)
 
 
@@ -24,12 +11,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 * .gitignore ([1b7b245](https://github.com/cabcookie/get-fit-ios/commit/1b7b2454c687fc7a72e46f6200add8ac16920b77))
 
-### [0.1.6](https://github.com/cabcookie/get-fit-ios/compare/v0.1.5...v0.1.6) (2021-01-23)
+### [0.1.6](https://github.com/cabcookie/get-fit-ios/compare/v0.2.0...v0.1.6) (2021-01-23)
 
 
 ### Features
 
 * Publish the app on an iPhone ([c126389](https://github.com/cabcookie/get-fit-ios/commit/c126389d311a9b64ef71f70533dac0c81fa65f96)), closes [#1](https://github.com/cabcookie/get-fit-ios/issues/1)
+
 
 ### Bug Fixes
 
