@@ -19,5 +19,5 @@ amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
 
-#Expo
+#expo
 ios-build/
